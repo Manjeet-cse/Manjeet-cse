@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:312e81,100:06b6d4&height=230&section=header&text=Manjeet%20Lodha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20AI%20Builder&descAlignY=60&descSize=18" alt="Manjeet Lodha — Full Stack Developer, Backend Engineer, and AI Builder" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:312e81,100:06b6d4&height=230&section=header&text=Manjeet%20Lodha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Open%20Source%20Contributor%20%E2%80%A2%20AI%20Enthusiast&descAlignY=60&descSize=18" alt="Manjeet Lodha — Frontend Developer" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Building+reliable+products+from+idea+to+deployment;Exploring+Backend+Engineering+%26+AI;Learning+in+public.+Shipping+with+purpose.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Building+modern+web+interfaces;Exploring+Frontend+Development+%26+AI;Learning+in+public.+Shipping+with+purpose.)](https://git.io/typing-svg)
 
 <br />
 
@@ -16,122 +16,114 @@
 
 <br /><br />
 
-### Building thoughtful software for real-world problems.
+### Crafting modern, accessible, and user-friendly web experiences.
 
 <p>
-  B.Tech CSE (AI) student and full stack developer focused on backend systems,<br />
-  practical AI applications, open source, and products that create meaningful impact.
+  B.Tech CSE (AI) student and <b>Frontend Developer</b> focused on building intuitive web interfaces,<br />
+  practical applications, open source, and products that create meaningful impact.
 </p>
 
 </div>
 
 ---
 
-## About Me
+## ⚡ About Me
 
-<table>
+<table align="center" style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
-    <td width="50%" valign="top">
-      <h3>Developer Profile</h3>
-      <ul>
-        <li>B.Tech CSE (AI) student</li>
-        <li>Full Stack Developer</li>
-        <li>Backend and AI enthusiast</li>
-        <li>Problem solver and product builder</li>
-        <li>Open-source learner and contributor</li>
-      </ul>
+    <td width="50%" align="left" valign="top">
+      <blockquote>
+        <h3>💻 Frontend Developer</h3>
+        <p>Building modern, responsive, and user-friendly web interfaces.</p>
+      </blockquote>
     </td>
-    <td width="50%" valign="top">
-      <h3>Current Focus</h3>
-      <ul>
-        <li>Full Stack Development</li>
-        <li>Backend Engineering</li>
-        <li>Data Structures &amp; Algorithms</li>
-        <li>Open Source Contributions</li>
-        <li>AI-powered Applications</li>
-      </ul>
+    <td width="50%" align="left" valign="top">
+      <blockquote>
+        <h3>🎓 B.Tech CSE (AI) Student</h3>
+        <p>Passionate about technology and solving real-world problems.</p>
+      </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <blockquote>
+        <h3>🌱 Building FarmIT</h3>
+        <p>Currently developing FarmIT, an AI-powered agriculture platform focused on helping farmers with technology-driven solutions.</p>
+      </blockquote>
+    </td>
+    <td width="50%" align="left" valign="top">
+      <blockquote>
+        <h3>📚 Always Learning</h3>
+        <p>Exploring DSA, ADA, System Design, and modern web development.</p>
+      </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="left" valign="top">
+      <blockquote>
+        <h3>🚀 Open Source & Projects</h3>
+        <p>Building projects and continuously improving development skills.</p>
+      </blockquote>
     </td>
   </tr>
 </table>
 
+<br/>
+
 <div align="center">
 
-**Currently learning**
+### 🎯 Currently Focusing On
 
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Express.js](https://img.shields.io/badge/Express.js-0f172a?style=flat-square&logo=express&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Prisma](https://img.shields.io/badge/Prisma-0f172a?style=flat-square&logo=prisma&logoColor=ffffff)
-![System Design](https://img.shields.io/badge/System%20Design-0f172a?style=flat-square&logo=diagramsdotnet&logoColor=38BDF8)
+<img src="https://img.shields.io/badge/Frontend_Development-0f172a?style=flat-square&logo=react&logoColor=61DAFB" alt="Frontend Development" />
+<img src="https://img.shields.io/badge/DSA_&_ADA-0f172a?style=flat-square&logo=leetcode&logoColor=FFA116" alt="DSA & ADA" />
+<img src="https://img.shields.io/badge/System_Design-0f172a?style=flat-square&logo=diagramsdotnet&logoColor=38BDF8" alt="System Design" />
+<img src="https://img.shields.io/badge/Building_Real--World_Projects-0f172a?style=flat-square&logo=github&logoColor=white" alt="Building Real-World Projects" />
+<img src="https://img.shields.io/badge/Open_Source_Contributions-0f172a?style=flat-square&logo=git&logoColor=F05032" alt="Open Source Contributions" />
 
 </div>
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,nodejs,express,postgres,mysql,git,github,vscode,postman&theme=dark&perline=10" alt="JavaScript, Python, Node.js, Express.js, PostgreSQL, MySQL, Git, GitHub, VS Code, and Postman" />
+<img src="https://skillicons.dev/icons?i=js,python,html,css,tailwind,react,postgres,mysql,git,github,vscode&theme=dark&perline=11" alt="Tech Stack" />
 
 <br /><br />
 
 **Languages**
-
+<br />
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=38BDF8)
 
-**Backend & Databases**
+<br /><br />
+**Frontend**
+<br />
+![HTML](https://img.shields.io/badge/HTML-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![React.js](https://img.shields.io/badge/React.js-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Express.js](https://img.shields.io/badge/Express.js-0f172a?style=for-the-badge&logo=express&logoColor=ffffff)
+<br /><br />
+**Databases**
+<br />
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Prisma](https://img.shields.io/badge/Prisma-0f172a?style=for-the-badge&logo=prisma&logoColor=ffffff)
 
-**Developer Tools**
-
+<br /><br />
+**Tools**
+<br />
 ![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS%20Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 </div>
 
 ---
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>FarmIT</h3>
-      <p>
-        AI-powered agriculture platform built to help farmers access practical,
-        technology-driven insights and services.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/AI-312e81?style=flat-square" alt="AI" />
-        <img src="https://img.shields.io/badge/AgriTech-166534?style=flat-square" alt="AgriTech" />
-        <img src="https://img.shields.io/badge/Full%20Stack-0369a1?style=flat-square" alt="Full Stack" />
-      </p>
-      <a href="https://github.com/Manjeet-cse/krishitech">
-        <img src="https://img.shields.io/badge/Explore%20Project-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Explore FarmIT" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>What It Solves</h3>
-      <ul>
-        <li>Farmer-focused digital experience</li>
-        <li>AI-assisted agricultural workflows</li>
-        <li>Marketplace and expert access</li>
-        <li>Weather and mandi information</li>
-      </ul>
-      <p><strong>Status:</strong> Actively evolving</p>
-    </td>
-  </tr>
-</table>
+## 💻 Featured Projects
 
 <div align="center">
   <a href="https://github.com/Manjeet-cse/krishitech">
@@ -150,7 +142,7 @@
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/Manjeet-cse">
@@ -162,6 +154,7 @@
 </div>
 
 <div align="center">
+  <br />
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Manjeet-cse&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8" alt="GitHub contribution streak" />
   </a>
@@ -169,17 +162,17 @@
 
 ---
 
-## Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![Manjeet's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Manjeet-cse&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/Manjeet-cse)
+[![Manjeet's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Manjeet-cse&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true&custom_title=Contribution%20Graph)](https://github.com/Manjeet-cse)
 
 </div>
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -193,7 +186,7 @@
 
 ---
 
-## Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
 
@@ -212,7 +205,7 @@
 
 <br /><br />
 
-**Open to collaborating on backend systems, open-source projects, and useful AI products.**
+**Open to collaborating on frontend applications, open-source projects, and useful AI products.**
 
 </div>
 
