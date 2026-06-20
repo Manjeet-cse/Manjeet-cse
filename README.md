@@ -27,31 +27,19 @@
 
 ---
 
-<div align="center">
-
 ## ⚡ About Me
 
-<br />
-
-![Frontend Developer](https://img.shields.io/badge/💻-Frontend_Developer-0f172a?style=flat-square&labelColor=0EA5E9&color=0f172a)  
+**💻 Frontend Developer**  
 Building clean, responsive, and user-friendly web experiences.
 
-<br />
-
-![Building FarmIT](https://img.shields.io/badge/🌱-Building_FarmIT-0f172a?style=flat-square&labelColor=38BDF8&color=0f172a)  
+**🌱 Building FarmIT**  
 Developing a technology-driven platform focused on solving real-world agricultural challenges.
 
-<br />
-
-![DSA, ADA & System Design](https://img.shields.io/badge/📚-DSA,_ADA_%26_System_Design-0f172a?style=flat-square&labelColor=6366F1&color=0f172a)  
+**📚 DSA • ADA • System Design**  
 Continuously improving problem-solving and software engineering skills.
 
-<br />
-
-![Open Source Contributor](https://img.shields.io/badge/🚀-Open_Source_Contributor-0f172a?style=flat-square&labelColor=0EA5E9&color=0f172a)  
+**🚀 Open Source Contributor**  
 Building projects, collaborating, and learning through practical development.
-
-</div>
 
 ---
 
