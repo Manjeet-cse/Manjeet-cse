@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:312e81,100:06b6d4&height=230&section=header&text=Manjeet%20Lodha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Open%20Source%20Contributor%20%E2%80%A2%20Artificial%20Intelligence%20Enthusiast&descAlignY=60&descSize=18" alt="Manjeet Lodha — Frontend Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:312e81,100:06b6d4&height=230&section=header&text=Manjeet%20Lodha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Lifelong%20Learner&descAlignY=60&descSize=18" alt="Manjeet Lodha — Frontend Developer" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Building+modern+web+interfaces;Exploring+Frontend+Development+%26+Artificial+Intelligence;Learning+in+public.+Shipping+with+purpose.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Building+Products+That+Solve+Real-World+Problems;Turning+Ideas+Into+Practical+and+Scalable+Solutions;Solving+Problems+Through+Code+and+Creativity;Continuously+Learning,+Building,+and+Improving)](https://git.io/typing-svg)
 
 <br />
 
@@ -19,7 +19,7 @@
 ### Crafting modern, accessible, and user-friendly web experiences.
 
 <p>
-  B.Tech CSE (Artificial Intelligence) student and <b>Frontend Developer</b> focused on building intuitive web interfaces,<br />
+  <b>Frontend Developer</b> focused on building intuitive web interfaces,<br />
   practical applications, open source, and products that create meaningful impact.
 </p>
 
@@ -29,34 +29,15 @@
 
 ## ⚡ About Me
 
-<table align="center" style="border-collapse: collapse; border: none; width: 100%;">
-  <tr>
-    <td width="50%" align="left" valign="top" style="padding: 15px;">
-      <h4>💻 Frontend Developer</h4>
-      <p>Building modern, responsive, and user-friendly web interfaces.</p>
-    </td>
-    <td width="50%" align="left" valign="top" style="padding: 15px;">
-      <h4>🎓 B.Tech CSE (Artificial Intelligence) Student</h4>
-      <p>Passionate about technology and solving real-world problems.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="left" valign="top" style="padding: 15px;">
-      <h4>🌱 Building FarmIT</h4>
-      <p>Currently developing FarmIT, an Artificial Intelligence-powered agriculture platform focused on helping farmers with technology-driven solutions.</p>
-    </td>
-    <td width="50%" align="left" valign="top" style="padding: 15px;">
-      <h4>📚 Continuous Learning</h4>
-      <p>Exploring Data Structures & Algorithms, Analysis of Algorithms, System Design, and modern web development.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="left" valign="top" style="padding: 15px;">
-      <h4>🚀 Open Source & Projects</h4>
-      <p>Building projects and continuously improving development skills.</p>
-    </td>
-  </tr>
-</table>
+💻 **Frontend Developer** focused on building clean, responsive, and user-friendly web experiences
+
+🌱 Currently building **FarmIT**, a technology-driven platform focused on solving real-world challenges in agriculture
+
+📚 Exploring **Data Structures & Algorithms**, **Analysis of Algorithms**, and **System Design**
+
+🚀 Building real-world projects and contributing to **open source**
+
+☕ Continuously learning and improving through hands-on development
 
 <br/>
 
@@ -64,14 +45,12 @@
 
 ### 🎯 Current Focus
 
-<p>
-  <b>Frontend Development</b> &nbsp;•&nbsp; 
-  <b>Data Structures & Algorithms (DSA)</b> &nbsp;•&nbsp; 
-  <b>Analysis of Algorithms (ADA)</b><br />
-  <b>System Design</b> &nbsp;•&nbsp; 
-  <b>Building Real-World Projects</b> &nbsp;•&nbsp; 
-  <b>Open Source Contributions</b>
-</p>
+<img src="https://img.shields.io/badge/Frontend_Development-0f172a?style=flat-square&logo=react&logoColor=61DAFB" alt="Frontend Development" />
+<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-0f172a?style=flat-square&logo=leetcode&logoColor=FFA116" alt="Data Structures & Algorithms" />
+<img src="https://img.shields.io/badge/Analysis_of_Algorithms-0f172a?style=flat-square&logo=cplusplus&logoColor=00599C" alt="Analysis of Algorithms" />
+<img src="https://img.shields.io/badge/System_Design-0f172a?style=flat-square&logo=diagramsdotnet&logoColor=38BDF8" alt="System Design" />
+<img src="https://img.shields.io/badge/Real--World_Projects-0f172a?style=flat-square&logo=github&logoColor=white" alt="Real-World Projects" />
+<img src="https://img.shields.io/badge/Open_Source-0f172a?style=flat-square&logo=git&logoColor=F05032" alt="Open Source" />
 
 </div>
 
