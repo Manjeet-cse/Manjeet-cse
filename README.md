@@ -29,42 +29,27 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:6366F1&height=2&width=100%" alt="gradient separator" />
-
 ## ⚡ About Me
 
 <br />
 
-<table align="center" style="border-collapse: collapse; border: none; max-width: 800px;">
-  <tr>
-    <td width="50%" align="center" valign="top" style="padding: 20px; border: 1px solid transparent;">
-      <img src="https://img.shields.io/badge/Frontend_Developer-0f172a?style=for-the-badge&label=💻&labelColor=0EA5E9&color=0f172a" alt="Frontend Developer" />
-      <br /><br />
-      <p align="center">Building clean, responsive, and user-friendly web experiences.</p>
-    </td>
-    <td width="50%" align="center" valign="top" style="padding: 20px; border: 1px solid transparent;">
-      <img src="https://img.shields.io/badge/Building_FarmIT-0f172a?style=for-the-badge&label=🌱&labelColor=38BDF8&color=0f172a" alt="Building FarmIT" />
-      <br /><br />
-      <p align="center">Developing a technology-driven platform focused on solving real-world agricultural challenges.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top" style="padding: 20px; border: 1px solid transparent;">
-      <img src="https://img.shields.io/badge/DSA_•_ADA_•_System_Design-0f172a?style=for-the-badge&label=📚&labelColor=6366F1&color=0f172a" alt="DSA, ADA, System Design" />
-      <br /><br />
-      <p align="center">Continuously improving problem-solving and software engineering skills.</p>
-    </td>
-    <td width="50%" align="center" valign="top" style="padding: 20px; border: 1px solid transparent;">
-      <img src="https://img.shields.io/badge/Open_Source_Contributor-0f172a?style=for-the-badge&label=🚀&labelColor=0EA5E9&color=0f172a" alt="Open Source Contributor" />
-      <br /><br />
-      <p align="center">Building projects, collaborating, and learning through practical development.</p>
-    </td>
-  </tr>
-</table>
+![Frontend Developer](https://img.shields.io/badge/💻-Frontend_Developer-0f172a?style=flat-square&labelColor=0EA5E9&color=0f172a)  
+Building clean, responsive, and user-friendly web experiences.
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0EA5E9&height=2&width=100%" alt="gradient separator" />
+![Building FarmIT](https://img.shields.io/badge/🌱-Building_FarmIT-0f172a?style=flat-square&labelColor=38BDF8&color=0f172a)  
+Developing a technology-driven platform focused on solving real-world agricultural challenges.
+
+<br />
+
+![DSA, ADA & System Design](https://img.shields.io/badge/📚-DSA,_ADA_%26_System_Design-0f172a?style=flat-square&labelColor=6366F1&color=0f172a)  
+Continuously improving problem-solving and software engineering skills.
+
+<br />
+
+![Open Source Contributor](https://img.shields.io/badge/🚀-Open_Source_Contributor-0f172a?style=flat-square&labelColor=0EA5E9&color=0f172a)  
+Building projects, collaborating, and learning through practical development.
 
 </div>
 
