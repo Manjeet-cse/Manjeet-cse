@@ -35,32 +35,32 @@
 
 <br />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend_Developer-0F172A?style=for-the-badge&labelColor=0EA5E9&label=💻" alt="Frontend Developer" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Building_FarmIT-0F172A?style=for-the-badge&labelColor=38BDF8&label=🌱" alt="Building FarmIT" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Exploring_DSA,_ADA_%26_System_Design-0F172A?style=for-the-badge&labelColor=6366F1&label=📚" alt="Exploring DSA, ADA & System Design" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Building_Real--World_Projects-0F172A?style=for-the-badge&labelColor=0EA5E9&label=🚀" alt="Building Real-World Projects" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Open_Source_Contributor-0F172A?style=for-the-badge&labelColor=38BDF8&label=🌍" alt="Open Source Contributor" />
-</p>
-
-<br />
-
-### 🎯 Current Focus
-
-<p align="center">
-<img src="https://img.shields.io/badge/Frontend_Development-0F172A?style=for-the-badge&logo=react&logoColor=white&labelColor=38BDF8&label=%20" alt="Frontend Development" />
-<img src="https://img.shields.io/badge/DSA-0F172A?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0EA5E9&label=%20" alt="DSA" />
-<img src="https://img.shields.io/badge/ADA-0F172A?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=6366F1&label=%20" alt="ADA" />
-<img src="https://img.shields.io/badge/System_Design-0F172A?style=for-the-badge&logo=diagramsdotnet&logoColor=white&labelColor=8B5CF6&label=%20" alt="System Design" />
-<img src="https://img.shields.io/badge/Real--World_Projects-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=10B981&label=%20" alt="Real-World Projects" />
-<img src="https://img.shields.io/badge/Open_Source-0F172A?style=for-the-badge&logo=git&logoColor=white&labelColor=F97316&label=%20" alt="Open Source" />
-</p>
+<table align="center" style="border-collapse: collapse; border: none; max-width: 800px;">
+  <tr>
+    <td width="50%" align="center" valign="top" style="padding: 20px; border: 1px solid transparent;">
+      <img src="https://img.shields.io/badge/Frontend_Developer-0f172a?style=for-the-badge&label=💻&labelColor=0EA5E9&color=0f172a" alt="Frontend Developer" />
+      <br /><br />
+      <p align="center">Building clean, responsive, and user-friendly web experiences.</p>
+    </td>
+    <td width="50%" align="center" valign="top" style="padding: 20px; border: 1px solid transparent;">
+      <img src="https://img.shields.io/badge/Building_FarmIT-0f172a?style=for-the-badge&label=🌱&labelColor=38BDF8&color=0f172a" alt="Building FarmIT" />
+      <br /><br />
+      <p align="center">Developing a technology-driven platform focused on solving real-world agricultural challenges.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top" style="padding: 20px; border: 1px solid transparent;">
+      <img src="https://img.shields.io/badge/DSA_•_ADA_•_System_Design-0f172a?style=for-the-badge&label=📚&labelColor=6366F1&color=0f172a" alt="DSA, ADA, System Design" />
+      <br /><br />
+      <p align="center">Continuously improving problem-solving and software engineering skills.</p>
+    </td>
+    <td width="50%" align="center" valign="top" style="padding: 20px; border: 1px solid transparent;">
+      <img src="https://img.shields.io/badge/Open_Source_Contributor-0f172a?style=for-the-badge&label=🚀&labelColor=0EA5E9&color=0f172a" alt="Open Source Contributor" />
+      <br /><br />
+      <p align="center">Building projects, collaborating, and learning through practical development.</p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
