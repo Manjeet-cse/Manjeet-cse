@@ -27,30 +27,44 @@
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:6366F1&height=2&width=100%" alt="gradient separator" />
+
 ## ⚡ About Me
 
-💻 **Frontend Developer** focused on building clean, responsive, and user-friendly web experiences
+<br />
 
-🌱 Currently building **FarmIT**, a technology-driven platform focused on solving real-world challenges in agriculture
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend_Developer-0F172A?style=for-the-badge&labelColor=0EA5E9&label=💻" alt="Frontend Developer" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Building_FarmIT-0F172A?style=for-the-badge&labelColor=38BDF8&label=🌱" alt="Building FarmIT" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Exploring_DSA,_ADA_%26_System_Design-0F172A?style=for-the-badge&labelColor=6366F1&label=📚" alt="Exploring DSA, ADA & System Design" />
+</p>
 
-📚 Exploring **Data Structures & Algorithms**, **Analysis of Algorithms**, and **System Design**
+<p align="center">
+  <img src="https://img.shields.io/badge/Building_Real--World_Projects-0F172A?style=for-the-badge&labelColor=0EA5E9&label=🚀" alt="Building Real-World Projects" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Open_Source_Contributor-0F172A?style=for-the-badge&labelColor=38BDF8&label=🌍" alt="Open Source Contributor" />
+</p>
 
-🚀 Building real-world projects and contributing to **open source**
-
-☕ Continuously learning and improving through hands-on development
-
-<br/>
-
-<div align="center">
+<br />
 
 ### 🎯 Current Focus
 
-<img src="https://img.shields.io/badge/Frontend_Development-0f172a?style=flat-square&logo=react&logoColor=61DAFB" alt="Frontend Development" />
-<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-0f172a?style=flat-square&logo=leetcode&logoColor=FFA116" alt="Data Structures & Algorithms" />
-<img src="https://img.shields.io/badge/Analysis_of_Algorithms-0f172a?style=flat-square&logo=cplusplus&logoColor=00599C" alt="Analysis of Algorithms" />
-<img src="https://img.shields.io/badge/System_Design-0f172a?style=flat-square&logo=diagramsdotnet&logoColor=38BDF8" alt="System Design" />
-<img src="https://img.shields.io/badge/Real--World_Projects-0f172a?style=flat-square&logo=github&logoColor=white" alt="Real-World Projects" />
-<img src="https://img.shields.io/badge/Open_Source-0f172a?style=flat-square&logo=git&logoColor=F05032" alt="Open Source" />
+<p align="center">
+<img src="https://img.shields.io/badge/Frontend_Development-0F172A?style=for-the-badge&logo=react&logoColor=white&labelColor=38BDF8&label=%20" alt="Frontend Development" />
+<img src="https://img.shields.io/badge/DSA-0F172A?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0EA5E9&label=%20" alt="DSA" />
+<img src="https://img.shields.io/badge/ADA-0F172A?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=6366F1&label=%20" alt="ADA" />
+<img src="https://img.shields.io/badge/System_Design-0F172A?style=for-the-badge&logo=diagramsdotnet&logoColor=white&labelColor=8B5CF6&label=%20" alt="System Design" />
+<img src="https://img.shields.io/badge/Real--World_Projects-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=10B981&label=%20" alt="Real-World Projects" />
+<img src="https://img.shields.io/badge/Open_Source-0F172A?style=for-the-badge&logo=git&logoColor=white&labelColor=F97316&label=%20" alt="Open Source" />
+</p>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0EA5E9&height=2&width=100%" alt="gradient separator" />
 
 </div>
 
