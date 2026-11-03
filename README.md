@@ -88,20 +88,34 @@ Building projects, collaborating, and learning through practical development.
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<a href="https://farm-it-zeta.vercel.app/farmer/home" target="_blank">
-<img src="https://raw.githubusercontent.com/Manjeet-cse/Manjeet-cse/main/assets/farmit.svg" alt="FarmIT Preview" width="100%" />
+<a href="https://edulyx.vercel.app/" target="_blank">
+<img src="https://raw.githubusercontent.com/Manjeet-cse/Manjeet-cse/main/assets/edulyx.png" alt="Edulyx Preview" width="100%" />
 </a>
-<h3 align="center">🌱 FarmIT (KrishiTech)</h3>
-<p align="center">Technology-driven agricultural platform empowering farmers with smart disease detection, mandi rates &amp; advisory.</p>
-<p align="center"><code>React</code> • <code>Node.js</code> • <code>MongoDB</code> • <code>Tailwind CSS</code></p>
+<h3 align="center">🎓 Edulyx (Ed-Tech)</h3>
+<p align="center">Comprehensive school &amp; education management platform bringing administration, academics, and student dashboards together.</p>
+<p align="center"><code>React.js</code> • <code>Tailwind CSS</code> • <code>JavaScript</code> • <code>REST APIs</code></p>
 <p align="center">
-<a href="https://farm-it-zeta.vercel.app/farmer/home" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Live Demo" /></a>
-<a href="https://github.com/Manjeet-cse/krishitech" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+<a href="https://edulyx.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Live Demo" /></a>
+<a href="https://github.com/Manjeet-cse/edulyx" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
 </p>
 </td>
 <td width="50%" valign="top">
+<a href="https://e-commerce-blush-two-82.vercel.app/" target="_blank">
+<img src="https://raw.githubusercontent.com/Manjeet-cse/Manjeet-cse/main/assets/ecommerce.jpg" alt="LuxeCart Preview" width="100%" />
+</a>
+<h3 align="center">🛍️ LuxeCart (E-Commerce)</h3>
+<p align="center">Modern online tech &amp; lifestyle storefront with dynamic product discovery, smart cart management, and seamless checkout.</p>
+<p align="center"><code>React.js</code> • <code>Tailwind CSS</code> • <code>JavaScript</code> • <code>State Management</code></p>
+<p align="center">
+<a href="https://e-commerce-blush-two-82.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Live Demo" /></a>
+<a href="https://github.com/Manjeet-cse/e-commerce" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://rent-x-theta.vercel.app/" target="_blank">
-<img src="https://raw.githubusercontent.com/Manjeet-cse/Manjeet-cse/main/assets/rentx.svg" alt="RentX Preview" width="100%" />
+<img src="https://raw.githubusercontent.com/Manjeet-cse/Manjeet-cse/main/assets/rentx.jpg" alt="RentX Preview" width="100%" />
 </a>
 <h3 align="center">🚗 RentX</h3>
 <p align="center">Modern asset &amp; vehicle rental marketplace featuring real-time availability, booking workflows, and responsive UI.</p>
@@ -111,30 +125,16 @@ Building projects, collaborating, and learning through practical development.
 <a href="https://github.com/Manjeet-cse/RentX" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
 </p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<a href="https://e-commerce-blush-two-82.vercel.app/" target="_blank">
-<img src="https://raw.githubusercontent.com/Manjeet-cse/Manjeet-cse/main/assets/ecommerce.svg" alt="E-Commerce Store Preview" width="100%" />
+<a href="https://farm-it-zeta.vercel.app/farmer/home" target="_blank">
+<img src="https://raw.githubusercontent.com/Manjeet-cse/Manjeet-cse/main/assets/farmit.jpg" alt="FarmIT Preview" width="100%" />
 </a>
-<h3 align="center">🛍️ E-Commerce Store</h3>
-<p align="center">Modern online shopping experience featuring dynamic product catalog, real-time cart state management, and seamless checkout flow.</p>
-<p align="center"><code>React.js</code> • <code>Tailwind CSS</code> • <code>JavaScript</code> • <code>State Management</code></p>
+<h3 align="center">🌱 FarmIT (KrishiTech)</h3>
+<p align="center">Technology-driven agricultural platform empowering farmers with smart disease detection, mandi rates &amp; advisory.</p>
+<p align="center"><code>React</code> • <code>Node.js</code> • <code>MongoDB</code> • <code>Tailwind CSS</code></p>
 <p align="center">
-<a href="https://e-commerce-blush-two-82.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Live Demo" /></a>
-<a href="https://github.com/Manjeet-cse/e-commerce" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
-</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://edulyx.vercel.app/" target="_blank">
-<img src="https://raw.githubusercontent.com/Manjeet-cse/Manjeet-cse/main/assets/edulyx.svg" alt="Edulyx Preview" width="100%" />
-</a>
-<h3 align="center">🎓 Edulyx (Ed-Tech)</h3>
-<p align="center">Interactive learning management platform with curated courses, student progress tracking, and responsive educational dashboards.</p>
-<p align="center"><code>React.js</code> • <code>Tailwind CSS</code> • <code>JavaScript</code> • <code>REST APIs</code></p>
-<p align="center">
-<a href="https://edulyx.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Live Demo" /></a>
-<a href="https://github.com/Manjeet-cse/edulyx" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+<a href="https://farm-it-zeta.vercel.app/farmer/home" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Live Demo" /></a>
+<a href="https://github.com/Manjeet-cse/krishitech" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
 </p>
 </td>
 </tr>
