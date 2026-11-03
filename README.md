@@ -85,20 +85,99 @@ Building projects, collaborating, and learning through practical development.
 
 ## 💻 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/Manjeet-cse/krishitech">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Manjeet-cse&repo=krishitech&theme=tokyonight&hide_border=true&bg_color=00000000&description_lines_count=2" alt="FarmIT / krishitech repository" />
-  </a>
-  <a href="https://github.com/Manjeet-cse/RentX">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Manjeet-cse&repo=RentX&theme=tokyonight&hide_border=true&bg_color=00000000&description_lines_count=2" alt="RentX repository" />
-  </a>
-  <a href="https://github.com/Manjeet-cse/Finora">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Manjeet-cse&repo=Finora&theme=tokyonight&hide_border=true&bg_color=00000000&description_lines_count=2" alt="Finora repository" />
-  </a>
-  <a href="https://github.com/Manjeet-cse/world-statistics-explorer">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Manjeet-cse&repo=world-statistics-explorer&theme=tokyonight&hide_border=true&bg_color=00000000&description_lines_count=2" alt="World Statistics Explorer repository" />
-  </a>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <!-- Project 1: FarmIT -->
+    <td width="50%" valign="top">
+      <a href="https://farm-it-zeta.vercel.app/farmer/home" target="_blank">
+        <img src="assets/farmit.svg" alt="FarmIT Preview" width="100%" />
+      </a>
+      <h3 align="center">🌱 FarmIT (KrishiTech)</h3>
+      <p align="center">
+        Technology-driven agricultural platform empowering farmers with smart disease detection, mandi rates &amp; advisory.
+      </p>
+      <p align="center">
+        <code>React</code> • <code>Node.js</code> • <code>MongoDB</code> • <code>Tailwind CSS</code>
+      </p>
+      <p align="center">
+        <a href="https://farm-it-zeta.vercel.app/farmer/home" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/Manjeet-cse/krishitech" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+
+    <!-- Project 2: RentX -->
+    <td width="50%" valign="top">
+      <a href="https://rent-x-theta.vercel.app/" target="_blank">
+        <img src="assets/rentx.svg" alt="RentX Preview" width="100%" />
+      </a>
+      <h3 align="center">🚗 RentX</h3>
+      <p align="center">
+        Modern asset &amp; vehicle rental marketplace featuring real-time availability, booking workflows, and responsive UI.
+      </p>
+      <p align="center">
+        <code>React</code> • <code>Tailwind CSS</code> • <code>JavaScript</code> • <code>REST APIs</code>
+      </p>
+      <p align="center">
+        <a href="https://rent-x-theta.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/Manjeet-cse/RentX" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Project 3: E-Commerce Store -->
+    <td width="50%" valign="top">
+      <a href="https://e-commerce-blush-two-82.vercel.app/" target="_blank">
+        <img src="assets/ecommerce.svg" alt="E-Commerce Store Preview" width="100%" />
+      </a>
+      <h3 align="center">🛍️ E-Commerce Store</h3>
+      <p align="center">
+        Modern online shopping experience featuring dynamic product catalog, real-time cart state management, and seamless checkout flow.
+      </p>
+      <p align="center">
+        <code>React.js</code> • <code>Tailwind CSS</code> • <code>JavaScript</code> • <code>State Management</code>
+      </p>
+      <p align="center">
+        <a href="https://e-commerce-blush-two-82.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/Manjeet-cse/e-commerce" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+
+    <!-- Project 4: Edulyx -->
+    <td width="50%" valign="top">
+      <a href="https://edulyx.vercel.app/" target="_blank">
+        <img src="assets/edulyx.svg" alt="Edulyx Preview" width="100%" />
+      </a>
+      <h3 align="center">🎓 Edulyx (Ed-Tech)</h3>
+      <p align="center">
+        Interactive learning management platform with curated courses, student progress tracking, and responsive educational dashboards.
+      </p>
+      <p align="center">
+        <code>React.js</code> • <code>Tailwind CSS</code> • <code>JavaScript</code> • <code>REST APIs</code>
+      </p>
+      <p align="center">
+        <a href="https://edulyx.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/Manjeet-cse/edulyx" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 

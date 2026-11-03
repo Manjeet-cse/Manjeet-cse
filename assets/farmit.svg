@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="bg-farm" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#021a12"/>
+      <stop offset="50%" stop-color="#062e22"/>
+      <stop offset="100%" stop-color="#0a192f"/>
+    </linearGradient>
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="accent-green" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+    <linearGradient id="line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.2"/>
+      <stop offset="50%" stop-color="#34d399" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="450" rx="16" fill="url(#bg-farm)"/>
+  <rect width="800" height="450" rx="16" fill="none" stroke="#10b981" stroke-opacity="0.25" stroke-width="2"/>
+
+  <!-- Subtle Grid Pattern -->
+  <g stroke="#ffffff" stroke-opacity="0.03" stroke-width="1">
+    <line x1="0" y1="90" x2="800" y2="90" />
+    <line x1="0" y1="180" x2="800" y2="180" />
+    <line x1="0" y1="270" x2="800" y2="270" />
+    <line x1="0" y1="360" x2="800" y2="360" />
+    <line x1="160" y1="0" x2="160" y2="450" />
+    <line x1="320" y1="0" x2="320" y2="450" />
+    <line x1="480" y1="0" x2="480" y2="450" />
+    <line x1="640" y1="0" x2="640" y2="450" />
+  </g>
+
+  <!-- Top Bar / App Mockup Header -->
+  <rect x="40" y="35" width="720" height="380" rx="12" fill="url(#card-grad)" stroke="#ffffff" stroke-opacity="0.1" stroke-width="1"/>
+
+  <!-- Window Dots -->
+  <circle cx="65" cy="58" r="5" fill="#ef4444" fill-opacity="0.8"/>
+  <circle cx="82" cy="58" r="5" fill="#f59e0b" fill-opacity="0.8"/>
+  <circle cx="99" cy="58" r="5" fill="#10b981" fill-opacity="0.8"/>
+
+  <rect x="120" y="48" width="220" height="20" rx="6" fill="#ffffff" fill-opacity="0.06"/>
+  <text x="132" y="62" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#94a3b8">farm-it-zeta.vercel.app/farmer</text>
+
+  <!-- Live Pulse Badge -->
+  <rect x="660" y="47" width="80" height="22" rx="11" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-width="1"/>
+  <circle cx="674" cy="58" r="4" fill="#34d399"/>
+  <text x="685" y="62" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" fill="#34d399">LIVE APP</text>
+
+  <!-- Hero Content inside Mockup -->
+  <!-- Brand Icon -->
+  <rect x="70" y="95" width="52" height="52" rx="14" fill="#10b981" fill-opacity="0.2" stroke="#10b981" stroke-width="1.5"/>
+  <text x="82" y="132" font-family="system-ui, -apple-system, sans-serif" font-size="28">🌱</text>
+
+  <text x="135" y="120" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="800" fill="#ffffff" letter-spacing="-0.5">FarmIT <tspan fill="#34d399">KrishiTech</tspan></text>
+  <text x="135" y="142" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#94a3b8">Empowering farmers with smart agri-tech, disease detection &amp; crop advisory</text>
+
+  <!-- Feature Grid inside Mockup -->
+  <!-- Card 1 -->
+  <rect x="70" y="175" width="205" height="135" rx="10" fill="#031b14" fill-opacity="0.7" stroke="#10b981" stroke-opacity="0.25" stroke-width="1"/>
+  <text x="88" y="205" font-family="system-ui, -apple-system, sans-serif" font-size="20">🌾</text>
+  <text x="88" y="235" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="700" fill="#ffffff">Crop Diagnostics</text>
+  <text x="88" y="255" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#94a3b8">Real-time health scan &amp;</text>
+  <text x="88" y="270" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#94a3b8">disease identification</text>
+  <rect x="88" y="285" width="70" height="12" rx="3" fill="#10b981" fill-opacity="0.2"/>
+  <text x="93" y="294" font-family="system-ui, -apple-system, sans-serif" font-size="8" font-weight="700" fill="#34d399">AI SCAN READY</text>
+
+  <!-- Card 2 -->
+  <rect x="295" y="175" width="205" height="135" rx="10" fill="#031b14" fill-opacity="0.7" stroke="#10b981" stroke-opacity="0.25" stroke-width="1"/>
+  <text x="313" y="205" font-family="system-ui, -apple-system, sans-serif" font-size="20">📈</text>
+  <text x="313" y="235" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="700" fill="#ffffff">Mandi Market Rates</text>
+  <text x="313" y="255" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#94a3b8">Live commodity rates &amp;</text>
+  <text x="313" y="270" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#94a3b8">MSP price alerts</text>
+  <rect x="313" y="285" width="60" height="12" rx="3" fill="#10b981" fill-opacity="0.2"/>
+  <text x="318" y="294" font-family="system-ui, -apple-system, sans-serif" font-size="8" font-weight="700" fill="#34d399">+14.2% TODAY</text>
+
+  <!-- Card 3 -->
+  <rect x="520" y="175" width="215" height="135" rx="10" fill="#031b14" fill-opacity="0.7" stroke="#10b981" stroke-opacity="0.25" stroke-width="1"/>
+  <text x="538" y="205" font-family="system-ui, -apple-system, sans-serif" font-size="20">🌦️</text>
+  <text x="538" y="235" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="700" fill="#ffffff">Weather &amp; Advisory</text>
+  <text x="538" y="255" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#94a3b8">Hyperlocal forecast &amp;</text>
+  <text x="538" y="270" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#94a3b8">irrigation guidance</text>
+  <rect x="538" y="285" width="65" height="12" rx="3" fill="#10b981" fill-opacity="0.2"/>
+  <text x="543" y="294" font-family="system-ui, -apple-system, sans-serif" font-size="8" font-weight="700" fill="#34d399">27°C • OPTIMAL</text>
+
+  <!-- Bottom Tech Bar -->
+  <rect x="70" y="335" width="665" height="50" rx="8" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.06"/>
+  <text x="90" y="365" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="600" fill="#94a3b8">TECH STACK:</text>
+  <text x="180" y="365" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#34d399">React • Node.js • Express • MongoDB • Tailwind CSS</text>
+</svg>
